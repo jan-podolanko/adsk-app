@@ -9,3 +9,6 @@
 
 ![działa](screenek.png "działa!")
 ![działa znowu](screen-2.png "działa!!")
+
+Schemat połączeń dla serwera open proxy z Wikipedii
+![schemat działania](schemat.png "schemacik")
