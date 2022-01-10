@@ -5,4 +5,4 @@
 4. "ansible-playbook -i hosts.ini scrapper.yaml -e DB_PW='hasło'" wlaczenie samej aplikacji
 5. i działa :)
 
-![działa](screenek.png działa!)
+![działa](screenek.png "działa!")
